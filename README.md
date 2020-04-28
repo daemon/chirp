@@ -1,2 +1,2 @@
 # chirp
-Audio classification app.
+Audio recorder app.
